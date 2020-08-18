@@ -4,6 +4,7 @@
 (Hangman) Keep Tim Alive
 """
 import random
+
 categ = [ [], ['apple', 'croissant', 'spinach', 'sandwich', 'watermelon'], 
           ['disgusted','surprised','furious','happy','suspicious'],
           ['motorbike', 'cupboard','paintbrush','lipstick','armchair'] ]
@@ -91,24 +92,3 @@ def game():
             return
         
 game()         
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-
